@@ -67,6 +67,10 @@ Os dados são extraídos e consumidos usando as bibliotecas requests, beautifuls
 
 INTERFACE DO USUÁRIO
 -------------------
+Para executar a aplicação, basta digitar o comando abaixo:
+```bash
+python window.py
+```
 A interface do usuário da aplicação é desenhada usando a biblioteca textual do python, usando o conceito de TUI.
 
 Uma TUI (Text User Interface) é uma forma de interface de usuário baseada em texto que permite interagir com um programa ou aplicativo por meio de comandos e exibição de informações em uma interface de texto. Ao contrário das interfaces gráficas de usuário (GUI), que usam elementos visuais como janelas, botões e ícones, as TUIs são executadas em um terminal ou console e são mais simples em termos de recursos e largura de banda. Elas são frequentemente usadas em aplicativos de linha de comando e oferecem uma maneira eficiente de interagir com programas por meio de texto. As TUIs podem incluir menus, caixas de diálogo e campos de entrada, permitindo que os usuários executem ações e visualizem informações de forma textual. Embora as TUIs possam ser menos intuitivas para usuários menos experientes, elas são eficazes em ambientes de linha de comando e podem ser mais acessíveis para usuários com deficiências visuais.
